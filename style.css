@@ -224,7 +224,7 @@ h2 > span:not(.nocolor):not(.badge),
 h3 > span:not(.nocolor):not(.badge),
 h4 > span:not(.nocolor):not(.badge),
 h5 > span:not(.nocolor):not(.badge),
-h6 > span:not(.nocolor):not(.badge) { color: #1ABC9C; }
+h6 > span:not(.nocolor):not(.badge) { color: #6BC9CC; }
 
 p,
 pre,
@@ -2216,7 +2216,7 @@ body.top-search-open #top-account { opacity: 0; }
 
 #page-menu-wrap {
 	z-index: 99;
-	background-color: #1ABC9C;
+	background-color: #6BC9CC;
 	-webkit-transform: translate3d(0,0,0);
 	-ms-transform: translate3d(0,0,0);
 	-o-transform: translate3d(0,0,0);
@@ -7488,7 +7488,7 @@ body:not(.device-touch) .button.button-full strong {
 .feature-box .fbox-icon i,
 .feature-box .fbox-icon img {
 	border-radius: 50%;
-	background-color: #1ABC9C;
+	background-color: #6BC9CC;
 }
 
 .feature-box .fbox-icon i {
